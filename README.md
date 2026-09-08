@@ -46,8 +46,6 @@ bash CamSnatch.sh
 ```
 bash cleanup.sh
 ```
-<p>The cam files and saved location will also be removed.</p>
-
 
 ### Important Notice
 Unauthorized reuploading of this project is prohibited.
