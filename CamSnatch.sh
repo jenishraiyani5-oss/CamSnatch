@@ -45,7 +45,7 @@ banner() {
     printf "${BLUE}│${NC} ${PURPLE}${BOLD}   \____|  |_|  |_|    \____| |_| |_|\__|___/ ${NC} ${BLUE}│${NC}\n"
     printf "${BLUE}├────────────────────────────────────────────────────────┤${NC}\n"
     printf "${BLUE}│${NC} ${CYAN}CamSnatch - Camera & GPS Capture Tool${NC}   ${BLUE}│${NC}\n"
-    printf "${BLUE}│${NC} ${GREEN}Status: Active${NC}                            ${BLUE}│${NC}\n"
+    printf "${BLUE}│${NC} ${GREEN}Status: Active${NC}                   -jenish raiyani            ${BLUE}│${NC}\n"
     printf "${BLUE}└────────────────────────────────────────────────────────┘${NC}\n\n"
 }
 
